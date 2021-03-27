@@ -1,0 +1,48 @@
+/*#indicator-button * {
+	-gtk-icon-transform: scale(.7); 
+}*/
+
+#xfwm-tabwin {
+  border-radius: 0;
+}
+
+/*
+white-theme #444444
+dark-theme #dfdfdf
+*/
+
+#xfce4-notification-plugin{
+	color: #dfdfdf;
+}
+
+#sn-button{
+	color: #dfdfdf;
+}
+
+#clock-button {
+	font-weight: bold;
+	color: #dfdfdf;
+	/*border-right: 2px solid #bd93f9;*/
+}
+
+/*xfce panel workaround */
+
+.xfce4-panel{
+	color: #dfdfdf;
+}
+
+#xfce4-power-manager-plugin{
+	color: #dfdfdf;
+}
+
+#pulseaudio-button{
+    color: #dfdfdf;
+} 
+
+/*#whiskermenu-button{
+	border-left: 2px solid #bd93f9;
+}*/
+
+.tooltip{
+	font-family: "Jetbrains Mono";
+}

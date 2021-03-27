@@ -1,0 +1,22 @@
+/*#xfce4-notification-plugin * {
+ -gtk-icon-transform: scale(.7); 
+}
+
+#indicator-button * {
+	-gtk-icon-transform: scale(0.7);
+}
+
+#indicator-button image * {
+	-gtk-icon-style: symbolic;
+}
+.xfce4-panel image {
+ -gtk-icon-style: symbolic; 
+}
+
+#xfce4-clipman-plugin * {
+ -gtk-icon-transform: scale(.7); 
+}*/
+
+#xfce4-notification-plugin *{
+	padding: 5px;
+}
